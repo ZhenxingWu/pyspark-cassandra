@@ -7,7 +7,7 @@ PySpark Cassandra brings back the fun in working with Cassandra data in PySpark.
 
 This module provides python support for Apache Spark's Resillient Distributed Datasets from Apache Cassandra CQL rows using [Cassandra Spark Connector](https://github.com/datastax/spark-cassandra-connector) within PySpark, both in the interactive shell and in python programmes submitted with spark-submit.
 
-This project was initially forked from https://github.com/Parsely/pyspark-cassandra, but in order to submit it to http://spark-packages.org/, a plain old repository was created. 
+This project was initially forked from https://github.com/TargetHolding/pyspark-cassandra, but in order to add support for spark 1.5 or later version, a plain old repository was created. 
 
 **Contents:**
 * [Compatibility](#compatibility)
